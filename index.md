@@ -2,7 +2,9 @@
 
 Media Algorithm Engineer @Huawei Central Media Technology Institute
 
-### Reserch
+reach me @ guojia30@huawei.com
+
+### Research
 
 - Computer Vision
 - Scence Understanding
